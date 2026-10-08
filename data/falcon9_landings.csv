@@ -1,0 +1,154 @@
+flight_number,date_utc,mission,booster_flight,reused,gridfins,legs,landing_type,landing_success
+11,2013-09-29 16:00:00+00:00,CASSIOPE,1,False,False,False,Ocean,0
+14,2014-04-18 19:25:00+00:00,CRS-3,1,False,False,True,Ocean,1
+15,2014-07-14 15:15:00+00:00,OG-2 Mission 1,1,False,False,True,Ocean,1
+18,2014-09-21 05:52:00+00:00,CRS-4,1,False,False,False,Ocean,0
+19,2015-01-10 09:47:00+00:00,CRS-5,1,False,True,True,ASDS,0
+20,2015-02-11 23:03:00+00:00,DSCOVR,1,False,True,True,Ocean,1
+22,2015-04-14 20:10:00+00:00,CRS-6,1,False,True,True,ASDS,0
+25,2015-12-22 01:29:00+00:00,OG-2 Mission 2,1,False,True,True,RTLS,1
+26,2016-01-17 15:42:00+00:00,Jason 3,1,False,True,True,ASDS,0
+27,2016-03-04 23:35:00+00:00,SES-9,1,False,True,True,ASDS,0
+28,2016-04-08 20:43:00+00:00,CRS-8,1,False,True,True,ASDS,1
+29,2016-05-06 05:21:00+00:00,JCSAT-2B,1,False,True,True,ASDS,1
+30,2016-05-27 21:39:00+00:00,Thaicom 8,1,False,True,True,ASDS,1
+31,2016-06-15 14:29:00+00:00,ABS-2A / Eutelsat 117W B,1,False,True,True,ASDS,0
+32,2016-07-18 04:45:00+00:00,CRS-9,1,False,True,True,RTLS,1
+33,2016-08-14 05:26:00+00:00,JCSAT-16,1,False,True,True,ASDS,1
+35,2017-01-14 17:54:00+00:00,Iridium NEXT Mission 1,1,False,True,True,ASDS,1
+36,2017-02-19 14:39:00+00:00,CRS-10,1,False,True,True,RTLS,1
+38,2017-03-30 22:27:00+00:00,SES-10,2,True,True,True,ASDS,1
+39,2017-05-01 11:15:00+00:00,NROL-76,1,False,True,True,RTLS,1
+41,2017-06-03 21:07:00+00:00,CRS-11,1,False,True,True,RTLS,1
+42,2017-06-23 19:10:00+00:00,BulgariaSat-1,2,True,True,True,ASDS,1
+43,2017-06-25 20:25:00+00:00,Iridium NEXT Mission 2,1,False,True,True,ASDS,1
+45,2017-08-14 16:31:00+00:00,CRS-12,1,False,True,True,RTLS,1
+46,2017-08-24 18:50:00+00:00,FormoSat-5,1,False,True,True,ASDS,1
+47,2017-09-07 13:50:00+00:00,Boeing X-37B OTV-5,1,False,True,True,RTLS,1
+48,2017-10-09 12:37:00+00:00,Iridium NEXT Mission 3,1,False,True,True,ASDS,1
+49,2017-10-11 22:53:00+00:00,SES-11 / Echostar 105,2,True,True,True,ASDS,1
+50,2017-10-30 19:34:00+00:00,KoreaSat 5A,1,False,True,True,ASDS,1
+51,2017-12-15 15:36:00+00:00,CRS-13,2,True,True,True,RTLS,1
+52,2017-12-23 01:27:23+00:00,Iridium NEXT Mission 4,2,True,True,False,Ocean,1
+53,2018-01-08 01:00:00+00:00,ZUMA,1,False,True,True,RTLS,1
+54,2018-01-31 21:25:00+00:00,SES-16 / GovSat-1,2,True,True,True,Ocean,1
+60,2018-04-18 22:51:00+00:00,TESS,1,False,True,True,ASDS,1
+61,2018-05-11 20:14:00+00:00,Bangabandhu-1,1,False,True,True,ASDS,1
+65,2018-07-22 05:50:00+00:00,Telstar 19V,1,False,True,True,ASDS,1
+66,2018-07-25 11:39:26+00:00,Iridium NEXT Mission 7,1,False,True,True,ASDS,1
+67,2018-08-07 05:18:00+00:00,Merah Putih,2,True,True,True,ASDS,1
+68,2018-09-10 04:45:00+00:00,Telstar 18V,1,False,True,True,ASDS,1
+69,2018-10-08 02:22:00+00:00,SAOCOM 1A,2,True,True,True,RTLS,1
+70,2018-11-15 20:46:00+00:00,Es’hail 2,2,True,True,True,ASDS,1
+71,2018-12-03 18:34:00+00:00,SSO-A,3,True,True,True,ASDS,1
+72,2018-12-05 18:16:00+00:00,CRS-16,1,False,True,True,RTLS,0
+74,2019-01-11 15:31:00+00:00,Iridium NEXT Mission 8,2,True,True,True,ASDS,1
+75,2019-02-22 01:45:00+00:00,Nusantara Satu (PSN-6) / S5 / Beresheet,3,True,True,True,ASDS,1
+76,2019-03-02 07:45:00+00:00,CCtCap Demo Mission 1,1,False,True,True,ASDS,1
+78,2019-05-04 06:48:00+00:00,CRS-17,1,False,True,True,ASDS,1
+79,2019-05-24 02:30:00+00:00,Starlink v0.9,3,True,True,True,ASDS,1
+80,2019-06-12 14:17:00+00:00,RADARSAT Constellation,2,True,True,True,RTLS,1
+82,2019-07-25 22:01:00+00:00,CRS-18,2,True,True,True,RTLS,1
+84,2019-11-11 14:56:00+00:00,Starlink-1,4,True,True,True,ASDS,1
+85,2019-12-05 17:29:23+00:00,CRS-19,1,False,True,True,ASDS,1
+86,2019-12-17 00:10:00+00:00,JCSat 18 / Kacific 1,3,True,True,True,ASDS,1
+87,2020-01-07 02:19:00+00:00,Starlink-2,4,True,True,True,ASDS,1
+89,2020-01-29 14:06:00+00:00,Starlink-3,3,True,True,True,ASDS,1
+90,2020-02-17 15:05:55+00:00,Starlink-4,4,True,True,True,ASDS,0
+91,2020-03-07 04:50:31+00:00,CRS-20,2,True,True,True,RTLS,1
+92,2020-03-18 12:16:00+00:00,Starlink-5,5,True,True,True,ASDS,0
+93,2020-04-22 19:30:00+00:00,Starlink-6,4,True,True,True,ASDS,1
+94,2020-05-30 19:22:00+00:00,CCtCap Demo Mission 2,1,False,True,True,ASDS,1
+95,2020-06-04 01:25:00+00:00,Starlink-7,5,True,True,True,ASDS,1
+96,2020-06-13 09:21:00+00:00,Starlink-8 & SkySat 16-18,3,True,True,True,ASDS,1
+97,2020-06-30 19:55:00+00:00,GPS III SV03 (Columbus),1,False,True,True,ASDS,1
+98,2020-07-20 21:30:00+00:00,ANASIS-II,2,True,True,True,ASDS,1
+99,2020-08-07 05:12:00+00:00,Starlink-9 (v1.0) & BlackSky Global 5-6,5,True,True,True,ASDS,1
+100,2020-08-18 14:31:00+00:00,Starlink-10 (v1.0) & SkySat 19-21,6,True,True,True,ASDS,1
+101,2020-08-30 23:18:00+00:00,"SAOCOM 1B, GNOMES-1, Tyvak-0172",4,True,True,True,RTLS,1
+102,2020-09-03 12:46:00+00:00,Starlink-11 (v1.0),2,True,True,True,ASDS,1
+103,2020-10-06 11:29:00+00:00,Starlink-12 (v1.0),3,True,True,True,ASDS,1
+104,2020-10-18 12:25:00+00:00,Starlink-13 (v1.0),6,True,True,True,ASDS,1
+105,2020-10-24 15:31:00+00:00,Starlink-14 (v1.0),3,True,True,True,ASDS,1
+106,2020-11-05 23:24:00+00:00,GPS III SV04 (Sacagawea),1,False,True,True,ASDS,1
+107,2020-11-16 00:27:00+00:00,Crew-1,1,False,True,True,ASDS,1
+108,2020-11-21 17:17:00+00:00,Sentinel-6 Michael Freilich,1,False,True,True,RTLS,1
+109,2020-11-25 02:13:00+00:00,Starlink-15 (v1.0),7,True,True,True,ASDS,1
+110,2020-12-06 16:17:00+00:00,CRS-21,4,True,True,True,ASDS,1
+111,2020-12-13 17:30:00+00:00,SXM-7,7,True,True,True,ASDS,1
+112,2020-12-19 14:00:00+00:00,NROL-108,5,True,True,True,RTLS,1
+113,2021-01-08 02:15:00+00:00,Turksat 5A,4,True,True,True,ASDS,1
+114,2021-01-20 13:02:00+00:00,Starlink-16 (v1.0),8,True,True,True,ASDS,1
+115,2021-01-24 15:00:00+00:00,Transporter-1,5,True,True,True,ASDS,1
+116,2021-02-04 06:19:00+00:00,Starlink-18 (v1.0),5,True,True,True,ASDS,1
+117,2021-02-16 03:59:00+00:00,Starlink-19 (v1.0),6,True,True,True,ASDS,0
+118,2021-03-04 08:24:00+00:00,Starlink-17 (v1.0),8,True,True,True,ASDS,1
+119,2021-03-11 08:13:00+00:00,Starlink-20 (v1.0),6,True,True,True,ASDS,1
+120,2021-03-14 10:01:00+00:00,Starlink-21 (v1.0),9,True,True,True,ASDS,1
+121,2021-03-24 08:28:00+00:00,Starlink-22 (v1.0),6,True,True,True,ASDS,1
+122,2021-04-07 16:34:00+00:00,Starlink-23 (v1.0),7,True,True,True,ASDS,1
+123,2021-04-23 09:49:00+00:00,Crew-2,2,True,True,True,ASDS,1
+124,2021-04-29 03:44:00+00:00,Starlink-24 (v1.0),7,True,True,True,ASDS,1
+125,2021-05-04 19:01:00+00:00,Starlink-25 (v1.0),9,True,True,True,ASDS,1
+126,2021-05-09 06:42:00+00:00,Starlink-27 (v1.0),10,True,True,True,ASDS,1
+127,2021-05-15 22:54:00+00:00,Starlink-26 (v1.0) + Capella-6 + Tyvak-0130,8,True,True,True,ASDS,1
+128,2021-05-26 18:59:00+00:00,Starlink-28 (v1.0),2,True,True,True,ASDS,1
+129,2021-06-03 17:29:00+00:00,CRS-22 & IROSA,1,False,True,True,ASDS,1
+130,2021-06-06 04:26:00+00:00,SXM-8,3,True,True,True,ASDS,1
+131,2021-06-17 16:09:00+00:00,GPS III SV05,2,True,True,True,ASDS,1
+132,2021-06-30 19:31:00+00:00,Transporter-2,8,True,True,True,RTLS,1
+133,2021-08-29 07:14:00+00:00,CRS-23,4,True,True,True,ASDS,1
+134,2021-09-14 03:55:00+00:00,Starlink 2-1 (v1.5),10,True,True,True,ASDS,1
+135,2021-09-16 00:02:00+00:00,Inspiration4,3,True,True,True,ASDS,1
+136,2021-11-11 02:03:00+00:00,Crew-3,2,True,True,True,ASDS,1
+137,2021-11-13 12:40:00+00:00,Starlink 4-1 (v1.5),9,True,True,True,ASDS,1
+138,2021-11-24 06:20:00+00:00,DART,2,True,True,True,ASDS,1
+139,2021-12-01 23:20:00+00:00,Starlink 4-3 (v1.5),9,True,True,True,ASDS,1
+140,2021-12-09 06:00:00+00:00,IXPE,5,True,True,True,ASDS,1
+141,2021-12-18 12:41:40+00:00,Starlink 4-4 (v1.5),11,True,True,True,ASDS,1
+142,2021-12-19 03:58:00+00:00,Türksat 5B,3,True,True,True,ASDS,1
+143,2021-12-21 10:06:00+00:00,CRS-24,1,False,True,True,ASDS,1
+144,2022-01-06 21:49:00+00:00,Starlink 4-5 (v1.5),4,True,True,True,ASDS,1
+145,2022-01-13 15:25:00+00:00,Transporter-3,10,True,True,True,RTLS,1
+146,2022-01-19 00:04:00+00:00,Starlink 4-6 (v1.5),10,True,True,True,ASDS,1
+147,2022-01-31 23:11:12+00:00,CSG-2,3,True,True,True,RTLS,1
+148,2022-02-02 20:18:00+00:00,NROL-87,1,False,True,True,RTLS,1
+149,2022-02-03 18:13:00+00:00,Starlink 4-7 (v1.5),6,True,True,True,ASDS,1
+150,2022-02-21 14:44:00+00:00,Starlink 4-8 (v1.5),11,True,True,True,ASDS,1
+151,2022-02-25 17:12:00+00:00,Starlink 4-11 (v1.5),4,True,True,True,ASDS,1
+152,2022-03-03 14:35:00+00:00,Starlink 4-9 (v1.5),11,True,True,True,ASDS,1
+153,2022-03-09 13:45:00+00:00,Starlink 4-10 (v1.5),4,True,True,True,ASDS,1
+154,2022-03-19 03:24:00+00:00,Starlink 4-12 (v1.5),12,True,True,True,ASDS,1
+155,2022-04-01 16:24:00+00:00,Transporter-4,7,True,True,True,ASDS,1
+156,2022-04-08 15:17:00+00:00,Ax-1,5,True,True,True,ASDS,1
+157,2022-04-17 13:13:00+00:00,NROL-85,2,True,True,True,RTLS,1
+158,2022-04-21 15:16:00+00:00,Starlink 4-14 (v1.5),12,True,True,True,ASDS,1
+159,2022-04-27 07:52:00+00:00,Crew-4,4,True,True,True,ASDS,1
+160,2022-04-29 21:27:00+00:00,Starlink 4-16 (v1.5),6,True,True,True,ASDS,1
+161,2022-05-06 09:42:00+00:00,Starlink 4-17 (v1.5),12,True,True,True,ASDS,1
+162,2022-05-13 22:07:00+00:00,Starlink 4-13 (v1.5),5,True,True,True,ASDS,1
+163,2022-05-14 20:40:00+00:00,Starlink 4-15 (v1.5),1,False,True,True,ASDS,1
+164,2022-05-18 10:40:00+00:00,Starlink 4-18 (v1.5),5,True,True,True,ASDS,1
+165,2022-05-25 18:27:00+00:00,Transporter-5,8,True,True,True,RTLS,1
+167,2022-06-01 17:08:50+00:00,Starlink 4-19 (v1.5),13,True,True,True,ASDS,1
+166,2022-06-08 21:04:00+00:00,Nilesat-301,7,True,True,True,ASDS,1
+168,2022-06-18 14:19:00+00:00,SARah 1,3,True,True,True,RTLS,1
+169,2022-06-19 04:27:00+00:00,Globalstar FM15,9,True,True,True,ASDS,1
+170,2022-06-29 21:04:00+00:00,SES-22,2,True,True,True,ASDS,1
+171,2022-07-07 13:11:00+00:00,Starlink 4-21 (v1.5),13,True,True,True,ASDS,1
+172,2022-07-11 01:39:00+00:00,Starlink 3-1 (v1.5),6,True,True,True,ASDS,1
+173,2022-07-15 00:44:00+00:00,CRS-25,5,True,True,True,ASDS,1
+174,2022-07-17 14:50:00+00:00,Starlink 4-22 (v1.5),13,True,True,True,ASDS,1
+175,2022-07-21 17:13:00+00:00,Starlink 3-2 (v1.5),4,True,True,True,ASDS,1
+176,2022-07-24 00:00:00+00:00,Starlink 4-25 (v1.5),8,True,True,True,ASDS,1
+177,2022-08-04 23:08:00+00:00,KPLO,6,True,True,True,ASDS,1
+178,2022-08-09 22:57:00+00:00,Starlink 4-26 (v1.5),3,True,True,True,ASDS,1
+179,2022-08-12 21:30:00+00:00,Starlink 3-3 (v1.5),10,True,True,True,ASDS,1
+180,2022-08-19 19:24:00+00:00,Starlink 4-27 (v1.5),9,True,True,True,ASDS,1
+181,2022-08-28 02:22:00+00:00,Starlink 4-23 (v1.5),2,True,True,True,ASDS,1
+182,2022-08-31 05:40:00+00:00,Starlink 3-4 (v1.5),7,True,True,True,ASDS,1
+183,2022-09-05 02:09:00+00:00,Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,7,True,True,True,ASDS,1
+184,2022-09-11 01:10:00+00:00,Starlink 4-2 (v1.5) & Blue Walker 3,14,True,True,True,ASDS,1
+185,2022-09-17 01:05:00+00:00,Starlink 4-34 (v1.5),6,True,True,True,ASDS,1
+186,2022-09-24 23:30:00+00:00,Starlink 4-35 (v1.5),4,True,True,True,ASDS,1
+187,2022-10-05 16:00:00+00:00,Crew-5,1,False,True,True,ASDS,1
